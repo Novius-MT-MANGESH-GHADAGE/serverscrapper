@@ -5,7 +5,7 @@ Outil Python pour archiver les messages Discord (messages, fichiers, embeds).
 ## Installation
 
 ```bash
-git clone https://github.com/NightKikko/discord-scraper
+git clone https://github.com/NightKikko/serverscrapper
 cd discord-scraper
 pip install -r requirements.txt
 ```
